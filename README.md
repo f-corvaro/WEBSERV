@@ -6,7 +6,7 @@
 	<b><i>"Explore the fundamentals of web server development."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/WEBSERV/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-WEBSERV-yellow" /></a>
+    <a href="https://github.com/f-corvaro/WEBSERV/blob/main/.extra/webserv.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-WEBSERV-yellow" /></a>
     <a href="https://github.com/f-corvaro/WEBSERV"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/WEBSERV?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/WEBSERV"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/WEBSERV?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/WEBSERV"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/WEBSERV?color=blueviolet" /></a>
